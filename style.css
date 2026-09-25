@@ -1,0 +1,14 @@
+body { max-width: 44em; margin: 2em auto; padding: 0 1em; color: #222; background: #fff; }
+header img { float: right; width: 9em; margin: 0 0 1em 1.5em; }
+h1 { margin-bottom: 0; }
+h2 { font-size: 1.2em; margin-top: 1.4em; border-bottom: 1px solid #ccc; clear: both; }
+h3 { font-size: 1em; font-weight: normal; font-style: italic; }
+li { margin-bottom: .5em; }
+small { color: #666; }
+summary { cursor: pointer; margin: .5em 0; }
+/* Dark mode (disabled)
+@media (prefers-color-scheme: dark) {
+  body { color: #ddd; background: #181818; }
+  a { color: #8ab4f8; } a:visited { color: #c58af9; } small { color: #999; }
+}
+*/
